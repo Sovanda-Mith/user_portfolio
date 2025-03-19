@@ -1,0 +1,2 @@
+/home/itzreign/Documents/FlutterLearning/user_portfolio/android/app/.cxx/Debug/5z2hm326/x86/CMakeFiles/edit_cache.dir
+/home/itzreign/Documents/FlutterLearning/user_portfolio/android/app/.cxx/Debug/5z2hm326/x86/CMakeFiles/rebuild_cache.dir
