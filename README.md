@@ -5,6 +5,6 @@ Role: Software Engineer
 
 # Demo screenshot
 
-![My Demo Screenshot]("assets/images/demo.png")
+![My Demo Screenshot](./assets/images/demo.png)
 
 
